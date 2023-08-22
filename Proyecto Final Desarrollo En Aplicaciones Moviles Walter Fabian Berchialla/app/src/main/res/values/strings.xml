@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Trabajo Integrador</string>
+    <string name="hello_world">Hello world</string>
+    <string name="text1">Texto 1</string>
+    <string name="text2">Texto 2</string>
+    <string name="button_compare">Comparar Textos</string>
+</resources>
